@@ -1,8 +1,10 @@
-# React + Vite
+# Lista de Tarefas
+## Serāo adicionadas tarefas, de acordo com cada uma de suas categorias, e estas subirāo a lista.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![WhatsApp Image 2024-01-09 at 15 35 40](https://github.com/janaassis/listadetarefas/assets/89691315/c01faee7-9333-4e52-9d34-0a476b87066d)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Ao digitar o t[itulo na barra de pesquisas e ao selecionar a categoria, clicando no botāo de criaçāo de tarefas, esta subirá a lista, também é possivel pesquisar se já existe alguma tarefa na lista com a mesma palavra digitada.
+
+#### Tecnologias Utiliadas:
+- React;
